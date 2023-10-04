@@ -1,0 +1,39 @@
+article {
+
+    float: left;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    background-color: #f1f1f1;
+    height: auto;
+  }
+  .box{
+    border: 1px solid rgb(14, 14, 14);
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 5px;
+    display: inline-block;
+  
+}
+.box img {
+    margin:5px;width: 200px;height: 200px;  
+}
+  .suray{
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
+.snt{
+  color: rgb(244, 92, 219);
+}
+.shop{
+  color: rgb(60, 231, 71);
+}
+button{
+  float: right;
+  background-color: rgb(18, 242, 223);
+  padding: 10px;  
+}
+.kvr{
+  background-color: aqua;
+}
